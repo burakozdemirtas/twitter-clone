@@ -1,5 +1,6 @@
 export default function NotFound(){
     return(
-        <div>Yanlış Sayfa Aga!</div>
+        <div className="bg-red-200 text-red-600 p-5 flex items-center justify-center">
+            Yanlış Sayfa Aga!</div>
     )
 }
